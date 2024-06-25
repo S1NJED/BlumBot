@@ -35,6 +35,7 @@ We need this extension because the browsers won't display the iframe for securit
 
 - Add the token to the ``config.json`` file like this:
 ![alt text](image-1.png)
+But do not touch the refresh variable
 
 And now you can start the bot with this command:
 
